@@ -1,0 +1,65 @@
+.amazon-auth{
+    width: 25%;
+}
+
+.amazon-auth .amazon-logo-auth img{
+    width: 130px;
+}
+
+.amazon-auth .amazon-logo-auth .dot-in{
+    position: relative;
+    right: 0.7rem;
+    bottom: 2px;
+    font-size: 13px;
+    color: black;
+    font-family: emberMedium;
+}
+
+.amazon-auth .auth-form{
+    border-radius: 5px;
+}
+
+.amazon-auth .auth-form h3{
+    font-family: emberMedium;
+    color: black;
+}
+
+.amazon-auth .auth-form .t-c{
+   font-size: 11.5px;
+   font-family: emberMedium;
+}
+
+.amazon-auth .auth-form a{
+    text-decoration: none;
+}
+
+.amazon-auth .auth-form a:hover, .auth-footer a:hover{
+    color: var(--info);
+    text-decoration: underline;
+}
+
+.amazon-auth .auth-form .amz-need-help{
+    font-size: 13px;
+    font-family: emberMedium;
+}
+
+.amazon-auth .amz-new-account span{
+    font-size: 12px;
+    font-family: emberMedium;
+}
+
+.amazon-auth .amz-help-text{
+    font-size: 12.5px;
+    font-family: emberMedium;   
+}
+
+.auth-footer a{
+    text-decoration: none;
+    font-size: 12px;
+    font-family: emberMedium;
+}
+
+.auth-footer .auth-footer-copyright{
+    font-size: 12px;
+    font-family: emberMedium;
+}
